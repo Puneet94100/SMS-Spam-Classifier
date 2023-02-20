@@ -1,6 +1,8 @@
 
 # SMS Spam Classifier
 
+![scam](https://user-images.githubusercontent.com/114376944/220110414-b5bc6164-3715-4652-8fed-bf48198a1f7e.png)
+
 ## Introduction
 
 This project is a machine learning model that can classify SMS messages as either spam or not spam. It uses a dataset of SMS messages that are labeled as either spam or not spam, and trains a machine learning model to predict whether new messages are spam or not.
