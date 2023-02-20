@@ -26,12 +26,13 @@ This project requires Python 3 and the following libraries:
 ## Installation
 
 1.  Clone the repository:
-
+ 
+    https://github.com/Puneet94100/SMS-Spam-Classifier.git
 
 
 2. Install the required libraries:
  
-  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 
